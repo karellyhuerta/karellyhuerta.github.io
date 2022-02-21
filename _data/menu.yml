@@ -8,7 +8,3 @@ menu_pages:
   category: discography
   tooltip: Discography tooltip
 
-- title: Collaborations
-  url: /collaborations/
-  category: collaborations
-  tooltip: Collaborations tooltip
