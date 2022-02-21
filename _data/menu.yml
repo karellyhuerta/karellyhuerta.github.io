@@ -1,7 +1,4 @@
 menu_pages:
-- title: Home
-  url: /
-  category: home
 
 - title: Discography
   url: /discography/
